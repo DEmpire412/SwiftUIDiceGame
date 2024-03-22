@@ -1,5 +1,6 @@
 import SwiftUI
 
+//Main view
 struct ContentView: View {
     @State private var player1Dice: [Int]
     @State private var player2Dice: [Int]
